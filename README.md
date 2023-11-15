@@ -1,4 +1,4 @@
-# Internet-Draft Template Repository
+# draft-connolly-cfrg-hybrid-signature-combiners
 
 Use this repository as a template if you want to start working on
 [IETF](https://www.ietf.org/) documents.
