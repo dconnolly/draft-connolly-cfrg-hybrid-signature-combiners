@@ -3,7 +3,7 @@ title: "Hybrid Signature Combiners"
 abbrev: hybrid-sig-combiners
 category: info
 
-docname: draft-connolly-cfrg-hybrid-signature-combiners
+docname: draft-connolly-cfrg-hybrid-signature-combiners-latest
 submissiontype: IRTF
 number:
 date:
